@@ -1,0 +1,6 @@
+pandas
+numpy
+boto3         # Para acessar dados no AWS S3
+jupyter       # Para notebooks (caso queira usar Jupyter no VSCode)
+matplotlib    # Para visualização de dados
+seaborn       # Para visualizações mais avançadas
